@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Behead a proceess
+# Kill forciblyy
+
+pkill -KILL -f "7-highlander"
